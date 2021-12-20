@@ -1,5 +1,5 @@
 # Neurite-computations
-Contains the supplementary files related to the manuscript:
+Contains the supplementary files and scripts that generated the figures of the manuscript:
 
 The synaptic organization in the C. elegans neural network supports local compartmentalized computations
 
