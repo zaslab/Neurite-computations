@@ -1,6 +1,5 @@
 # Neurite-computations
-Contains the supplementary files, the full data, and the scripts developed to analyze the data
-For the manuscript:
+Contains the supplementary files, the full data, and the scripts developed to analyze the data for the manuscript:
 
 The synaptic organization in the C. elegans neural network supports local compartmentalized computations
 
