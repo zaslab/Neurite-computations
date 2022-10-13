@@ -11,6 +11,9 @@ Rotem Ruach1, Nir Ratner1, Scott W. Emmons2, Alon Zaslaver1
 
 Note:
 Dataset S1 is 'Supplementary file 1': A matlab file containing the network data used for all of the analyses.
+
 Dataset S2 is 'Supplementary file 2': A csv table with the list of neural pairs with significant synaptic clustering.
+
 Dataset S3 is 'Supplementary file 3': A csv table with the results used for detecting tightly-clustered synapses of pairs of neurons on a common third neuron.
+
 Dataset S4 is 'Supplementary file 4': A list of the top common neurons and the number of significant triplets that they form.
